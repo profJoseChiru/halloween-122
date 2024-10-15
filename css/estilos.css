@@ -58,3 +58,11 @@ a{
 .justificar{
     text-align: justify;
 }
+.footer {
+    background-color: #2e2e2e; /* Mismo color que el header */
+    color: white; /* Color del texto */
+    text-align: center; /* Centrar el texto */
+    padding: 20px 0; /* Espaciado vertical */
+    width: 100%; /* Ancho completo */
+    margin: 0; /* Eliminar márgenes */
+}
